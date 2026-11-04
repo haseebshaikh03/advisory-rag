@@ -54,6 +54,10 @@ curl "localhost:8000/search?q=pickle+deserialization+remote+code+execution&mode=
 
 `POST /ask` needs `ANTHROPIC_API_KEY`. `/search` works without it.
 
+## Data
+
+Advisory text comes from the [GitHub Advisory Database](https://github.com/github/advisory-database), licensed under CC-BY 4.0. `data/advisories.jsonl` is a normalized snapshot of 300 reviewed PyPI advisories, and `python -m rag.fetch` refreshes it.
+
 ## Layout
 
 | Path | Purpose |
