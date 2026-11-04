@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+data/raw_*.json
+eval/results_*.json
+data/embeddings_cache.npz

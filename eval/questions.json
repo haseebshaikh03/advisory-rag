@@ -1,0 +1,1312 @@
+[
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-113722 about?",
+    "relevant": [
+      "GHSA-c978-59m8-c77v"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-114510 about?",
+    "relevant": [
+      "GHSA-vqrg-773h-4wxc"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112899 about?",
+    "relevant": [
+      "GHSA-vx6w-vv9f-6gvg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-116575 about?",
+    "relevant": [
+      "GHSA-5324-3w58-qpp2"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115911 about?",
+    "relevant": [
+      "GHSA-542m-9234-8gvf"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-60090 about?",
+    "relevant": [
+      "GHSA-wf65-4jjx-q444"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112909 about?",
+    "relevant": [
+      "GHSA-69hj-f68j-2879"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-113792 about?",
+    "relevant": [
+      "GHSA-qfv9-64jg-mh7p"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-105698 about?",
+    "relevant": [
+      "GHSA-gh98-4phw-6fmw"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115919 about?",
+    "relevant": [
+      "GHSA-48m4-24cq-37qf"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-61445 about?",
+    "relevant": [
+      "GHSA-9mp3-24cc-77mg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-113715 about?",
+    "relevant": [
+      "GHSA-qmx5-4p3x-wvqf"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-61438 about?",
+    "relevant": [
+      "GHSA-26mh-57q7-jfvr"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112910 about?",
+    "relevant": [
+      "GHSA-8mx5-7m5m-r77g"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is GHSA-pcc4-rvhr-2pr8 about?",
+    "relevant": [
+      "GHSA-pcc4-rvhr-2pr8"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is GHSA-hq85-5cpj-mr62 about?",
+    "relevant": [
+      "GHSA-hq85-5cpj-mr62"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115916 about?",
+    "relevant": [
+      "GHSA-q97c-p368-75c4"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115585 about?",
+    "relevant": [
+      "GHSA-jr96-gvgh-j3r4"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112939 about?",
+    "relevant": [
+      "GHSA-rfpc-qcw5-3pc4"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-107290 about?",
+    "relevant": [
+      "GHSA-fpf4-vwcp-v4hp"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-111064 about?",
+    "relevant": [
+      "GHSA-5wr8-gcqf-gqf3"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115917 about?",
+    "relevant": [
+      "GHSA-vvpg-rrww-wpmh"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-60089 about?",
+    "relevant": [
+      "GHSA-qjw5-xwrp-xwpq"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-114616 about?",
+    "relevant": [
+      "GHSA-8m4g-j4wp-wgcg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112914 about?",
+    "relevant": [
+      "GHSA-crv4-6mhj-j5jh"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115913 about?",
+    "relevant": [
+      "GHSA-8397-8qf6-f2gm"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-105749 about?",
+    "relevant": [
+      "GHSA-cgc7-9qp3-86m3"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-105699 about?",
+    "relevant": [
+      "GHSA-4hmc-cfm3-w43c"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112897 about?",
+    "relevant": [
+      "GHSA-q45j-58j2-45rg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115910 about?",
+    "relevant": [
+      "GHSA-h2r5-x5m7-3935"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112906 about?",
+    "relevant": [
+      "GHSA-2g95-wg33-c5x2"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-117601 about?",
+    "relevant": [
+      "GHSA-6jp4-8v48-cc5v"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-61446 about?",
+    "relevant": [
+      "GHSA-m6wp-h223-4c8g"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-114615 about?",
+    "relevant": [
+      "GHSA-7vr2-2fgp-9w7p"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-114136 about?",
+    "relevant": [
+      "GHSA-3547-9m27-7rxg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-106435 about?",
+    "relevant": [
+      "GHSA-98qm-wvgf-w4cf"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-107295 about?",
+    "relevant": [
+      "GHSA-h4xc-3qfq-jf93"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-116685 about?",
+    "relevant": [
+      "GHSA-5h93-6whr-6q8j"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-105743 about?",
+    "relevant": [
+      "GHSA-pc36-qwjq-x68c"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-96637 about?",
+    "relevant": [
+      "GHSA-g842-9rc4-69pw"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-61447 about?",
+    "relevant": [
+      "GHSA-2xv2-w8cq-5gxw"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115924 about?",
+    "relevant": [
+      "GHSA-qr6x-7v33-6qmg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112935 about?",
+    "relevant": [
+      "GHSA-fq56-3cx3-fjxp"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-105697 about?",
+    "relevant": [
+      "GHSA-w794-rj3p-xv45"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-35002 about?",
+    "relevant": [
+      "GHSA-m4w4-3r8h-jw98"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-113725 about?",
+    "relevant": [
+      "GHSA-vxj4-q4g9-crj7"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-112936 about?",
+    "relevant": [
+      "GHSA-j8f7-rjxc-mr56"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-61437 about?",
+    "relevant": [
+      "GHSA-4gfv-wg42-7jw5"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115914 about?",
+    "relevant": [
+      "GHSA-gq5q-89c7-vhvx"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-61430 about?",
+    "relevant": [
+      "GHSA-qg25-6gc4-48mg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-113714 about?",
+    "relevant": [
+      "GHSA-494p-63j8-28p3"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-107395 about?",
+    "relevant": [
+      "GHSA-6p4f-j8j6-463q"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-60088 about?",
+    "relevant": [
+      "GHSA-xpx6-x8c2-mw5w"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-111063 about?",
+    "relevant": [
+      "GHSA-494j-54xm-rwp3"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-114135 about?",
+    "relevant": [
+      "GHSA-354v-3q48-cv69"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-108258 about?",
+    "relevant": [
+      "GHSA-47c3-hpmg-7j6p"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-104250 about?",
+    "relevant": [
+      "GHSA-v5mq-3xhg-98m9"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-113786 about?",
+    "relevant": [
+      "GHSA-5hx5-vpf9-5wcv"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-96641 about?",
+    "relevant": [
+      "GHSA-4rm8-3hmm-39fg"
+    ]
+  },
+  {
+    "kind": "id",
+    "question": "What is CVE-2026-115355 about?",
+    "relevant": [
+      "GHSA-h7ww-273w-6cm8"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper limitation of a pathname to a restricted directory vulnerability in rembg?",
+    "relevant": [
+      "GHSA-qr6x-7v33-6qmg"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known excessive iteration vulnerability in pypdf?",
+    "relevant": [
+      "GHSA-gmh7-3g9r-mjh5"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known time-of-check time-of-use (toctou) race condition vulnerability in filelock?",
+    "relevant": [
+      "GHSA-9vhv-jxww-xfm5",
+      "GHSA-fq56-3cx3-fjxp",
+      "GHSA-jqc4-5cvw-7w85",
+      "GHSA-wfhq-q4j2-c37m"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known external control of file name or path vulnerability in docling?",
+    "relevant": [
+      "GHSA-p944-4xh2-x776",
+      "GHSA-x3q2-h9hx-4r4j"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known integer overflow or wraparound vulnerability in pillow?",
+    "relevant": [
+      "GHSA-4rm8-3hmm-39fg"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper control of generation of code vulnerability in praisonai?",
+    "relevant": [
+      "GHSA-79fv-7hq9-w7xg"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known server-side request forgery vulnerability in indico?",
+    "relevant": [
+      "GHSA-2v95-h47v-g4x9"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known use of uninitialized variable vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-rfgq-q3w2-pmv2"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known time-of-check time-of-use (toctou) race condition vulnerability in jupyterlab?",
+    "relevant": [
+      "GHSA-jwrc-gm9j-263p"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in djangorestframework?",
+    "relevant": [
+      "GHSA-33wh-fxxf-88vv"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in vllm?",
+    "relevant": [
+      "GHSA-3cgq-c484-rx5j",
+      "GHSA-542m-9234-8gvf",
+      "GHSA-gx7p-2j49-hfq4",
+      "GHSA-x567-49g5-p4cf"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known exposure of sensitive information to an unauthorized actor vulnerability in mcp?",
+    "relevant": [
+      "GHSA-5h93-6whr-6q8j"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper check for dropped privileges vulnerability in praisonai?",
+    "relevant": [
+      "GHSA-5r6c-gj4g-r697"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper certificate validation vulnerability in uv?",
+    "relevant": [
+      "GHSA-hq85-5cpj-mr62"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known exposure of sensitive information to an unauthorized actor vulnerability in GitPython?",
+    "relevant": [
+      "GHSA-23mf-xhv8-69c2",
+      "GHSA-fx3j-rwgx-fr94"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper encoding or escaping of output vulnerability in flexible-graphrag?",
+    "relevant": [
+      "GHSA-vqrg-773h-4wxc"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known incorrect authorization vulnerability in strawberry-graphql?",
+    "relevant": [
+      "GHSA-pfvf-fwfp-25mp"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper certificate validation vulnerability in certifi?",
+    "relevant": [
+      "GHSA-6q48-6c7w-9gw2"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in tornado?",
+    "relevant": [
+      "GHSA-r4j5-9xpp-3985"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper handling of highly compressed data (data amplification) vulnerability in autobahn?",
+    "relevant": [
+      "GHSA-pjh6-c8mg-3x7m"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper control of generation of code vulnerability in praisonaiagents?",
+    "relevant": [
+      "GHSA-2xv2-w8cq-5gxw",
+      "GHSA-m6wp-h223-4c8g"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper limitation of a pathname to a restricted directory vulnerability in docling?",
+    "relevant": [
+      "GHSA-x3q2-h9hx-4r4j"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known missing authorization vulnerability in jupyter-server?",
+    "relevant": [
+      "GHSA-354v-3q48-cv69"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known inefficient regular expression complexity vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-xgh8-jp6q-p5x8"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known null pointer dereference vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-27h8-gf7j-v5hc"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known missing authorization vulnerability in indico?",
+    "relevant": [
+      "GHSA-6p4f-j8j6-463q"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known incorrect behavior order vulnerability in docling?",
+    "relevant": [
+      "GHSA-9jxx-vjrv-h2rq"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in mcp?",
+    "relevant": [
+      "GHSA-84m7-p3x7-pcfv"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper validation of array index vulnerability in vllm?",
+    "relevant": [
+      "GHSA-q97c-p368-75c4"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper link resolution before file access vulnerability in filelock?",
+    "relevant": [
+      "GHSA-9j6q-wvj5-jgjg",
+      "GHSA-crv4-6mhj-j5jh",
+      "GHSA-j8f7-rjxc-mr56",
+      "GHSA-v4x8-3wr5-3wq8"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in pypdf?",
+    "relevant": [
+      "GHSA-42gh-23hr-vphw",
+      "GHSA-4vqv-7265-gm2w",
+      "GHSA-62m5-6wh8-28x7",
+      "GHSA-6c7f-9265-g8fw",
+      "GHSA-6vvc-x485-93v7",
+      "GHSA-7mh2-4gg2-979f",
+      "GHSA-cgf9-327m-v77c",
+      "GHSA-cggf-277g-3q54",
+      "GHSA-f54x-cmq8-qg57",
+      "GHSA-jr96-gvgh-j3r4",
+      "GHSA-x3rh-gjgm-fmqc"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known insufficient session expiration vulnerability in pyload-ng?",
+    "relevant": [
+      "GHSA-889w-m37p-88m5",
+      "GHSA-jq7h-wrvp-3rgx"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper input validation vulnerability in vllm?",
+    "relevant": [
+      "GHSA-h3rc-j82p-2c3h"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known allocation of resources without limits or throttling vulnerability in vllm?",
+    "relevant": [
+      "GHSA-542m-9234-8gvf",
+      "GHSA-8397-8qf6-f2gm",
+      "GHSA-frvg-qw88-hww9",
+      "GHSA-x567-49g5-p4cf"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-65qm-jvmh-6pqg",
+      "GHSA-mrfp-p49p-3hf2",
+      "GHSA-p8hx-v2p6-rp84"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in docling?",
+    "relevant": [
+      "GHSA-cgc7-9qp3-86m3"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known insufficient verification of data authenticity vulnerability in pipecat-ai?",
+    "relevant": [
+      "GHSA-hqm2-cfx2-2vgh"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known inclusion of functionality from untrusted control sphere vulnerability in black?",
+    "relevant": [
+      "GHSA-cg8m-r9f2-5wm2"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper control of generation of code vulnerability in vllm?",
+    "relevant": [
+      "GHSA-f623-hjm8-5wg5",
+      "GHSA-h3rc-6mm3-gc2m"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known loop with unreachable exit condition vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-22hg-r758-rrw9",
+      "GHSA-254f-3936-288h",
+      "GHSA-3j72-p6qg-6xp7",
+      "GHSA-f2g6-542v-9j58"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known inefficient algorithmic complexity vulnerability in pyasn1?",
+    "relevant": [
+      "GHSA-2qm8-x737-gmw5",
+      "GHSA-9m75-vc3g-4x39",
+      "GHSA-fm9c-5rcf-2q5p",
+      "GHSA-mm57-4v3p-rchx"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper limitation of a pathname to a restricted directory vulnerability in bbot?",
+    "relevant": [
+      "GHSA-xpf3-p7gm-7756"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known use of uninitialized variable vulnerability in pillow?",
+    "relevant": [
+      "GHSA-j4m9-6w36-pw47"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper privilege management vulnerability in litellm?",
+    "relevant": [
+      "GHSA-7hp6-4w63-5g45"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known allocation of resources without limits or throttling vulnerability in opentelemetry-propagator-jaeger?",
+    "relevant": [
+      "GHSA-f5m9-jfrj-jjj7"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper input validation vulnerability in banks?",
+    "relevant": [
+      "GHSA-hmq2-7hp6-7crh"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known permissive cross-domain security policy with untrusted domains vulnerability in vllm?",
+    "relevant": [
+      "GHSA-vvpg-rrww-wpmh"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known use of externally-controlled input to select classes or code vulnerability in mlflow?",
+    "relevant": [
+      "GHSA-26p8-2jq9-3vq9",
+      "GHSA-2wqp-q3c6-ccj5"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper authentication vulnerability in authlib?",
+    "relevant": [
+      "GHSA-fch4-3c6x-j4gc"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper neutralization of special elements used in an os command vulnerability in virtualenv?",
+    "relevant": [
+      "GHSA-5vjq-rrrf-7h2q",
+      "GHSA-6w3r-xr62-4xcp",
+      "GHSA-8rjx-v5ww-45pp",
+      "GHSA-c947-3pg5-gm8q",
+      "GHSA-c978-59m8-c77v",
+      "GHSA-cx6f-vjhg-g3cc",
+      "GHSA-vxj4-q4g9-crj7"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known use of uninitialized resource vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-654x-cwwv-5j9c",
+      "GHSA-q45j-58j2-45rg"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known out-of-bounds write vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-58r4-6rv3-gfh8",
+      "GHSA-g7cr-3p24-7wf7",
+      "GHSA-v9pv-5gc8-w2m6"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known inefficient regular expression complexity vulnerability in GitPython?",
+    "relevant": [
+      "GHSA-m64x-33q8-m5h7"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled recursion vulnerability in pillow?",
+    "relevant": [
+      "GHSA-p4wg-p73j-c528"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper limitation of a pathname to a restricted directory vulnerability in praisonaiagents?",
+    "relevant": [
+      "GHSA-4xxv-6wmf-xf45",
+      "GHSA-c44f-37qr-gw3f",
+      "GHSA-qjw5-xwrp-xwpq"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled resource consumption vulnerability in graphql-core?",
+    "relevant": [
+      "GHSA-mpqx-q82w-9x46",
+      "GHSA-r77w-qph3-7vf8",
+      "GHSA-vj8h-fx38-h3vc"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known uncontrolled recursion vulnerability in dnspython?",
+    "relevant": [
+      "GHSA-45c3-73f7-pv4m"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known improper neutralization of input during web page generation vulnerability in mercury?",
+    "relevant": [
+      "GHSA-2658-85cv-9wwq"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known inconsistent interpretation of http requests vulnerability in aiohttp?",
+    "relevant": [
+      "GHSA-pqxq-w44r-73xw"
+    ]
+  },
+  {
+    "kind": "weakness",
+    "question": "Is there a known buffer over-read vulnerability in Pillow?",
+    "relevant": [
+      "GHSA-4558-3h8r-v8xp",
+      "GHSA-c6hw-5grf-ff96"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package activation scripts run code from a path that contains a placeholder name",
+    "relevant": [
+      "GHSA-8rjx-v5ww-45pp"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Windows path escape via namespace_packages.txt during legacy wheel installation  Description",
+    "relevant": [
+      "GHSA-xmj3-9gf7-h52w"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Cypher/Graph Injection via broken string-escaping in FalkorDB adapter (_escape()) - full graph wipe from ingested-document content",
+    "relevant": [
+      "GHSA-vqrg-773h-4wxc"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: StrictSofta package creates its claim directories without the lock mode, so another local user with a write bit on them can end a live hold",
+    "relevant": [
+      "GHSA-6627-m3xw-93mp"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Arbitrary code execution via pickle deserialization of the stats cache in a package_HOME",
+    "relevant": [
+      "GHSA-22qq-2fwx-7p67"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Post-transform component authorization is skipped on direct calls",
+    "relevant": [
+      "GHSA-7xgj-8392-5q4r"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package has possible large memory usage for exceptions in strict mode",
+    "relevant": [
+      "GHSA-4vqv-7265-gm2w"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Lack of Input Size Validation Leads to Denial of Service (DoS) and Process Termination",
+    "relevant": [
+      "GHSA-vq8p-m3wm-gv5f"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: DNS Response Spoofing in a package.names Due to Missing Source Address Validation",
+    "relevant": [
+      "GHSA-jj36-9pvh-vj5r"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package: Path Traversal and XSS in Include directive",
+    "relevant": [
+      "GHSA-8cqv-vvq2-6p8c"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unbounded tracestate parsing in a package",
+    "relevant": [
+      "GHSA-xcq7-p3pf-p88h"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package has possible large memory usage when parsing page tree",
+    "relevant": [
+      "GHSA-cggf-277g-3q54"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Request-controlled mm_processor_kwargs.code_revision allows remote code execution",
+    "relevant": [
+      "GHSA-h3rc-6mm3-gc2m"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package's bundled CA store trusts an emSign root whose intermediate CA keys are compromised",
+    "relevant": [
+      "GHSA-hq85-5cpj-mr62"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Excessive resource use when local web fetching converts nested HTML",
+    "relevant": [
+      "GHSA-v36g-jcw9-x7cw"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Possible infinite loop when hitting EOF in standard xref table",
+    "relevant": [
+      "GHSA-39mj-jf6j-2qj3"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Project config can auto-save agent output outside the project root",
+    "relevant": [
+      "GHSA-qjw5-xwrp-xwpq"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Builtin creation follows linked environment directories",
+    "relevant": [
+      "GHSA-cw65-gx24-rc82"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unvalidated request_uri fetch in JWT-secured authorization request (JAR) leading to SSRF",
+    "relevant": [
+      "GHSA-x4rv-c3wx-4cr8"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Jobs API is unauthenticated by default and allows attacker-controlled webhook SSRF",
+    "relevant": [
+      "GHSA-4w49-gwv8-fpjg"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Denial of service via unchecked expansion of packed sub-byte tensors in a package Python APIs",
+    "relevant": [
+      "GHSA-q69g-f4f5-v8m7"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unbounded Session Accumulation in StreamableHTTP Transport Enables Resource Exhaustion",
+    "relevant": [
+      "GHSA-84m7-p3x7-pcfv"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: CodeAgent Executes LLM-Generated Code Without Sandboxing and Leaks All Environment Secrets",
+    "relevant": [
+      "GHSA-2xv2-w8cq-5gxw"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Out-of-bounds access in _imagingmorph on a zero-width image",
+    "relevant": [
+      "GHSA-58r4-6rv3-gfh8"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: TiffDecode returns uninitialized memory as pixels for short JPEG strips",
+    "relevant": [
+      "GHSA-q45j-58j2-45rg"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: TIFF encoder ColorMap plane-size mismatch causes a heap out-of-bounds read",
+    "relevant": [
+      "GHSA-pchr-8j38-3x4p"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: GIF seek keeps rejected size after DecompressionBombError, allowing DoS",
+    "relevant": [
+      "GHSA-65qm-jvmh-6pqg"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unencoded identifiers in a package SDK v3 streaming can redirect authenticated GET requests",
+    "relevant": [
+      "GHSA-3fx2-cqw9-xr3c"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: pyLoad has an authentication bypass in API key validation (check_apikey cache)",
+    "relevant": [
+      "GHSA-r44w-v6gf-x3p6"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unbounded recursion parsing a PDF page tree or trailer chain (incomplete fix for CVE-2026-42310)",
+    "relevant": [
+      "GHSA-p4wg-p73j-c528"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Phi-4 multimodal audio encoder materializes and retains full attention matrices: a single max-length audio OOM-crashes the a package engine",
+    "relevant": [
+      "GHSA-8397-8qf6-f2gm"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Bearer token can be retrieved as long as client knows a valid client ID for device workflow",
+    "relevant": [
+      "GHSA-3jp2-3mrg-2vxc"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Public multimodal SHM handle forgery reaches worker-side `pickle.loads()` with insecure serialization disabled",
+    "relevant": [
+      "GHSA-6757-hggm-hp2w"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Xonsh activation literals depend on the script decoding codec",
+    "relevant": [
+      "GHSA-394h-qwmc-48pf"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Remote code execution via unsafe deserialization in multiprocess mode transport",
+    "relevant": [
+      "GHSA-w5f2-9q9c-ff4h"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package command wrappers omit unsafe protocol and option checks",
+    "relevant": [
+      "GHSA-w8jc-g24h-crhw"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package CrewAI autologging records LLM provider API keys in logged trace spans",
+    "relevant": [
+      "GHSA-j7qq-vr8c-xvw3"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: ReDoS in XbmImagePlugin: 512-byte file stalls Image.open() for minutes",
+    "relevant": [
+      "GHSA-xgh8-jp6q-p5x8"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Out-of-bounds read in ConvTranspose shape inference via undersized weight rank",
+    "relevant": [
+      "GHSA-6pwm-x34p-fvj2"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Softa package stale-lock break removes a live lock file on a reused inode number and admits two holders",
+    "relevant": [
+      "GHSA-fq56-3cx3-fjxp"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: RCE via pickle deserialization in the lemmatizer",
+    "relevant": [
+      "GHSA-gh9r-c94j-cmp5"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Prompt Injection Defense Bypassed for HIGH-Level Threats",
+    "relevant": [
+      "GHSA-fj8f-m44g-c479"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: PGVector and Cassandra knowledge stores interpolate vector dimensions into DDL",
+    "relevant": [
+      "GHSA-wf65-4jjx-q444"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: SoftReadWriteLock holder refresh writes through a hard link and hangs on a named pipe that another local user renames over its record",
+    "relevant": [
+      "GHSA-fj95-fr6c-h845"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Arbitrary absolute-path file read in the find_handlers_for_template MCP tool",
+    "relevant": [
+      "GHSA-r57g-mc79-8hj2"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package has denial of service via memory leak in aborted validations",
+    "relevant": [
+      "GHSA-mpqx-q82w-9x46"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Responses API bypasses trust_request_chat_template for chat_template_kwargs",
+    "relevant": [
+      "GHSA-x567-49g5-p4cf"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package activate runs commands from the environment name in zsh with PROMPT_SUBST",
+    "relevant": [
+      "GHSA-5vjq-rrrf-7h2q"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Default FileSessionManager storage is world-readable on shared systems",
+    "relevant": [
+      "GHSA-763v-5pjm-fx36"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unauthenticated Remote Denial of Service in the a package IRC Server via an Unbounded Line Buffer",
+    "relevant": [
+      "GHSA-53xc-49m8-p798"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Infinite loop in MIC n_frames when the embedded TIFF",
+    "relevant": [
+      "GHSA-22hg-r758-rrw9"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Privilege revocation and password change through the REST API do not invalidate the user's session",
+    "relevant": [
+      "GHSA-jq7h-wrvp-3rgx"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Hydra legacy target blacklist permits unsafe PyYAML loading",
+    "relevant": [
+      "GHSA-wf6j-7hvr-gr93"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unbounded memory allocation in Jaeger baggage propagation",
+    "relevant": [
+      "GHSA-f5m9-jfrj-jjj7"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Strawberry legacy graphql-ws retains naturally completed subscription slots",
+    "relevant": [
+      "GHSA-m952-2w3f-6r8h"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: a package for Python has path traversal in bookmark restore",
+    "relevant": [
+      "GHSA-47c3-hpmg-7j6p"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Tar extraction creates device nodes and FIFOs (member types not filtered; tarfile extractall without filter=)",
+    "relevant": [
+      "GHSA-fr26-jjhm-638c"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: Unauthenticated access to /web/<path:filename> bypasses authentication on sensitive templates and leaks internal error details via exception attribute typo",
+    "relevant": [
+      "GHSA-j92p-c242-7hfx"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: HS256/384/512 verify accepts empty HMAC key via oct JWK (PyJWK/PyJWKClient) enabling token forgery",
+    "relevant": [
+      "GHSA-pxh4-856f-4h89"
+    ]
+  },
+  {
+    "kind": "symptom",
+    "question": "Which advisory describes this: StrictSofta package and SoftReadWriteLock adopt a protocol directory another user created first, losing mutual exclusion",
+    "relevant": [
+      "GHSA-9c4x-gm8v-wgc4"
+    ]
+  }
+]

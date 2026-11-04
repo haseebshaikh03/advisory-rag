@@ -1,0 +1,94 @@
+{
+  "vector": {
+    "id": {
+      "recall@5": 0.033,
+      "mrr@10": 0.007,
+      "n": 60
+    },
+    "all": {
+      "recall@5": 0.667,
+      "mrr@10": 0.61,
+      "n": 180
+    },
+    "weakness": {
+      "recall@5": 0.967,
+      "mrr@10": 0.839,
+      "n": 60
+    },
+    "symptom": {
+      "recall@5": 1.0,
+      "mrr@10": 0.983,
+      "n": 60
+    },
+    "ms_per_query": 24.2
+  },
+  "keyword": {
+    "id": {
+      "recall@5": 0.017,
+      "mrr@10": 0.017,
+      "n": 60
+    },
+    "all": {
+      "recall@5": 0.633,
+      "mrr@10": 0.56,
+      "n": 180
+    },
+    "weakness": {
+      "recall@5": 0.883,
+      "mrr@10": 0.723,
+      "n": 60
+    },
+    "symptom": {
+      "recall@5": 1.0,
+      "mrr@10": 0.941,
+      "n": 60
+    },
+    "ms_per_query": 19.9
+  },
+  "hybrid": {
+    "id": {
+      "recall@5": 0.05,
+      "mrr@10": 0.014,
+      "n": 60
+    },
+    "all": {
+      "recall@5": 0.678,
+      "mrr@10": 0.623,
+      "n": 180
+    },
+    "weakness": {
+      "recall@5": 0.983,
+      "mrr@10": 0.878,
+      "n": 60
+    },
+    "symptom": {
+      "recall@5": 1.0,
+      "mrr@10": 0.975,
+      "n": 60
+    },
+    "ms_per_query": 50.2
+  },
+  "hybrid+ids": {
+    "id": {
+      "recall@5": 1.0,
+      "mrr@10": 1.0,
+      "n": 60
+    },
+    "all": {
+      "recall@5": 0.994,
+      "mrr@10": 0.951,
+      "n": 180
+    },
+    "weakness": {
+      "recall@5": 0.983,
+      "mrr@10": 0.878,
+      "n": 60
+    },
+    "symptom": {
+      "recall@5": 1.0,
+      "mrr@10": 0.975,
+      "n": 60
+    },
+    "ms_per_query": 57.8
+  }
+}
